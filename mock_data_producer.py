@@ -25,16 +25,16 @@ def delivery_report(err, msg):
 
 # Kafka and Schema Registry configuration
 kafka_config = {
-    'bootstrap.servers': 'pkc-oxqxx9.us-east-1.aws.confluent.cloud:9092',
+    'bootstrap.servers': '',
     'sasl.mechanisms': 'PLAIN',
     'security.protocol': 'SASL_SSL',
-    'sasl.username': 'REZRTLIAKPH7BINO',
-    'sasl.password': 'cfltICjfpDSkCsUz3gWeB+W2vpcYsv8WLCmi89S6NTme/MrO+OcXPPqay2tX6Y+g'
+    'sasl.username': '',
+    'sasl.password': ''
 }
 
 schema_registry_client = SchemaRegistryClient({
-  'url': 'https://psrc-4x6n5v3.us-east-2.aws.confluent.cloud',
-  'basic.auth.user.info': '{}:{}'.format('KXJGLVYM2ZHYJU6E', 'cfltykqo42YeHKTFBqy5+8uWEIYBTWlgFksVBZKpTBQmeVIxM8R6/1s/Dz43d+/Q')
+  'url': '',
+  'basic.auth.user.info': '{}:{}'.format('', '')
 })
 
 key_serializer = StringSerializer('utf_8')  # Serialize keys as UTF-8 strings
