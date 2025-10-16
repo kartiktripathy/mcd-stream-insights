@@ -14,7 +14,7 @@ from datetime import datetime
 # ----------------------------
 
 # Replace with your MongoDB Atlas connection string
-MONGO_URI = "mongodb+srv://kartik_root:pavilion15@kartik-test-cluster.peofmgn.mongodb.net/?retryWrites=true&w=majority&appName=Kartik-test-cluster"
+MONGO_URI = ""
 DB_NAME = "kartik_test_database"
 COLLECTION_NAME = "mcdonalds_project"
 
