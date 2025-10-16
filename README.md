@@ -11,6 +11,10 @@ The purpose of this project is to replicate how modern enterprises build **real-
 
 ---
 
+<img width="1376" height="794" alt="Screenshot 2025-10-16 at 11 15 51 PM" src="https://github.com/user-attachments/assets/4a2bf3e9-2b51-4d74-8c13-a018266c9402" />
+<img width="1395" height="791" alt="Screenshot 2025-10-16 at 11 16 13 PM" src="https://github.com/user-attachments/assets/a83715a7-474f-4c14-b8b2-b814c608a819" />
+
+
 ## Business Use Case
 McDonald's receives thousands of orders every minute through multiple channels (in-store, drive-thru, mobile app).  
 Each order generates multiple events — orders, payments, and delivery statuses.  
