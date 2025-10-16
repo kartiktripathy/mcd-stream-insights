@@ -114,7 +114,6 @@ This solution creates a **real-time operational analytics layer**, enabling data
 - Implemented **event-driven data modeling** with Avro and Schema Registry.
 - Processed and **joined live streams** with time-window semantics using ksqlDB.
 - Created **end-to-end observability** from event generation to real-time visualization.
-- Demonstrated skills directly aligned with **modern Data Engineering roles**.
 
 ---
 
